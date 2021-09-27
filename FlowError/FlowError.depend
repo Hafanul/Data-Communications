@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555574596 source:j:\codes\study\cse350 data communication\project\flowerror\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"Sender.h"
+	"Receiver.h"
+
+1555574761 j:\codes\study\cse350 data communication\project\flowerror\sender.h
+
+1555573615 j:\codes\study\cse350 data communication\project\flowerror\receiver.h
+
